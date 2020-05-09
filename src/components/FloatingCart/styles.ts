@@ -14,6 +14,7 @@ export const Container = styled.View`
 
 export const CartPricing = styled.Text`
   padding: 20px;
+  flex: 1;
 `;
 
 export const CartTotalPrice = styled.Text`

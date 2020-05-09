@@ -51,6 +51,7 @@ export const ProductPrice = styled.Text`
   font-weight: bold;
   font-size: 16px;
   color: #e83f5b;
+  /* flex: 1; */
 `;
 
 export const ProductButton = styled.TouchableOpacity``;
